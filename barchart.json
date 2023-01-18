@@ -2,51 +2,51 @@
     "data": [
         {
             "x": 1,
-            "y": (Math.random() * 10).toInt()
+            "y": 12
         },
         {
             "x": 2,
-            "y": (Math.random() * 10).toInt()
+            "y": 11
         },
         {
             "x": 3,
-            "y": (Math.random() * 10).toInt()
+            "y": 10
         },
         {
             "x": 4,
-            "y": (Math.random() * 10).toInt()
+            "y": 9
         },
         {
             "x": 5,
-            "y": (Math.random() * 10).toInt()
+            "y": 8
         },
         {
             "x": 6,
-            "y": (Math.random() * 10).toInt()
+            "y": 7
         },
         {
             "x": 7,
-            "y": (Math.random() * 10).toInt()
+            "y": 6
         },
         {
             "x": 8,
-            "y": (Math.random() * 10).toInt()
+            "y": 5
         },
         {
             "x": 9,
-            "y": (Math.random() * 10).toInt()
+            "y": 4
         },
         {
             "x": 10,
-            "y": (Math.random() * 10).toInt()
+            "y": 4
         },
         {
             "x": 11,
-            "y": (Math.random() * 10).toInt()
+            "y": 2
         },
         {
             "x": 12,
-            "y": (Math.random() * 10).toInt()
+            "y": 1
         }
     ]
 }
