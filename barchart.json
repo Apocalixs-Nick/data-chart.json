@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "x": 1,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 2,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 3,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 4,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 5,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 6,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 7,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 8,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 9,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 10,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 11,
+            "y": (Math.random() * 10).toInt()
+        },
+        {
+            "x": 12,
+            "y": (Math.random() * 10).toInt()
+        }
+    ]
+}
